@@ -1,0 +1,52 @@
+{
+  "version": "4.1",
+  "main_url": "https://raw.githubusercontent.com/hamzajbour1/opticore_patchs/main/patches/",
+  "supported_games": {
+    "com.tencent.ig": {
+      "patches": [
+
+      ]
+    },
+    "com.vng.pubgmobile": {
+      "patches": [
+        {
+          "name": "Patch_1",
+          "game": "PUBG Mobile",
+          "variant": "VNG",
+          "version_supported": "4.1",
+          "filename": "patch_1.zip",
+          "size_kb": 8389,
+          "features_en": [
+            "iPad View",
+            "90FPS"
+          ]
+        }
+      ]
+    },
+    "com.pubg.krmobile": {
+      "patches": [
+
+      ]
+    },
+    "com.pubg.imobile": {
+      "patches": [
+
+      ]
+    },
+    "com.rekoo.pubgm": {
+      "patches": [
+
+      ]
+    },
+    "com.tencent.igce": {
+      "patches": [
+
+      ]
+    },
+    "com.tencent.iglite": {
+      "patches": [
+
+      ]
+    }
+  }
+}
