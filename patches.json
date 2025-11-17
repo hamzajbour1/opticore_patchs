@@ -15,6 +15,7 @@
           "variant": "VNG",
           "version_supported": "4.1",
           "filename": "patch_1.zip",
+          "patch_marker": "xHamza_416571581571804",
           "size_kb": 8389,
           "features_en": [
             "iPad View",
@@ -27,11 +28,11 @@
           "variant": "VNG",
           "version_supported": "4.1",
           "filename": "patch_2.zip",
+          "patch_marker": "xHamza_372841770336653",
           "size_kb": 8389,
           "features_en": [
             "iPad View",
-            "90FPS",
-            "Magic"
+            "120FPS"
           ]
         }
       ]
