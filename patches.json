@@ -17,22 +17,11 @@
           "filename": "patch_1.zip",
           "patch_marker": "xHamza_416571581571804",
           "size_kb": 8389,
+          "inject_offset": 1197776357,
+          "inject_offset_hex": "0x47649DE5",
           "features_en": [
             "iPad View",
             "90FPS"
-          ]
-        },
-        {
-          "name": "Patch_2",
-          "game": "PUBG Mobile",
-          "variant": "VNG",
-          "version_supported": "4.1",
-          "filename": "patch_2.zip",
-          "patch_marker": "xHamza_372841770336653",
-          "size_kb": 8389,
-          "features_en": [
-            "iPad View",
-            "120FPS"
           ]
         }
       ]
